@@ -1,0 +1,15 @@
+{
+    "name": "FaselHD",
+    "url": "https://www.faselhds.center/",
+    "icon": "https://www.faselhds.center/favicon.ico",
+    "description": "FaselHD offers a vast collection of movies, series, and anime with high-quality streaming and subtitles.",
+    "categories": [
+        "Movies",
+        "Series",
+        "Anime"
+    ],
+    "languages": [
+        "Arabic"
+    ],
+    "type": "website"
+}
